@@ -42,7 +42,7 @@ cd <your-repository-folder>
    cd api
    npm install
    ```
-
+//already there
 2. Create a `.env` file inside the `/api` directory (or ensure the following variables are present):
    ```env
    PORT=3001
